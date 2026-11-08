@@ -1,0 +1,7 @@
+name = "voice-to-prompt-architect"
+main = "worker/index.js"
+compatibility_date = "2026-11-08"
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
